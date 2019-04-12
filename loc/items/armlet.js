@@ -3,7 +3,7 @@ export default [
     name       : { en: 'Trashy Thing' },
     // Item description
     description: {
-      en: 'Interesting item description'
+      en: 'Type an interesting item description here'
     }
   },
 
